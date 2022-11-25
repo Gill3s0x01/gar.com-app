@@ -121,7 +121,9 @@ This project was made using the follow technologies:
 
 - Product listing.
 - Item selection for cart.
-- Responsive layout.
+- Make a wish.
+- Submit Orders.
+- Cancel orders.
 
 # :rocket: Figma Style Guide
 
